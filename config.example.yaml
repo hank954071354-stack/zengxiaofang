@@ -1,0 +1,5 @@
+# Example configuration only. Do not put real business identifiers here.
+report:
+  owner: "your-name"
+  team: "your-team"
+  visibility: "private"
