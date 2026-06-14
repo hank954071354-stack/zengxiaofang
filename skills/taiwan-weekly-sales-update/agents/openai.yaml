@@ -1,0 +1,4 @@
+interface:
+  display_name: "Taiwan Weekly"
+  short_description: "Refresh the recurring Taiwan weekly sales doc"
+  default_prompt: "Use $taiwan-weekly-sales-update to update the current Taiwan weekly sales Feishu document."

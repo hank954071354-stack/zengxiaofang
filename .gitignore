@@ -30,13 +30,20 @@ venv/
 # Generated or local reports
 reports/private/
 reports/tmp/
+public_snapshot/
 *.log
+*.bak
+*.bak_*
 
 # Raw business data and exports
 data/raw/
 exports/
 downloads/
 private/
+outputs/
+smartbi_exports/
+会话记录/
+恢复的会话记录/
 *.xlsx
 *.xls
 *.csv

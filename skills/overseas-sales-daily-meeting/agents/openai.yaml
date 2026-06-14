@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Daily Meeting"
+  short_description: "Update the overseas sales daily meeting package"
+  default_prompt: "Use $overseas-sales-daily-meeting to refresh today's overseas sales daily meeting document."

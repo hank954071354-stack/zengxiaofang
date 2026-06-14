@@ -1,0 +1,4 @@
+interface:
+  display_name: "Friday Halfweek"
+  short_description: "Update Friday half-week channel meeting docs"
+  default_prompt: "Use $channel-friday-halfweek to update the current Friday half-week meeting document from SmartBI exports."

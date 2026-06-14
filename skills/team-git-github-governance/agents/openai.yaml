@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Governance"
+  short_description: "Clean up a work repo before GitHub upload"
+  default_prompt: "Use $team-git-github-governance to govern this repository before pushing it to GitHub."

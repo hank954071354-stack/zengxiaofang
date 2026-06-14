@@ -1,0 +1,4 @@
+interface:
+  display_name: "Referral M0/M1"
+  short_description: "Build the monthly referral reward workbook"
+  default_prompt: "Use $referral-m0-m1-reward to regenerate this month's referral M0/M1 OA reward workbook."
