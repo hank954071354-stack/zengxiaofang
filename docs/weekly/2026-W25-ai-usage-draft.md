@@ -16,6 +16,8 @@ This week focuses on maintaining a GitHub-safe record of Codex / AI work for the
 - Rechecked README, `.gitignore`, governance notes, upload workflow, Git state, and pending staged files before preparing the next daily note.
 - Continued the daily upload-preparation run on 2026-06-18.
 - Reconfirmed the repository safety boundary before adding the 2026-06-18 daily note: only desensitized Markdown summaries belong in this upload path.
+- Continued the daily upload-preparation run on 2026-06-19.
+- Reused the prior automation memory, governance checklist, and weekly draft context before adding the 2026-06-19 daily note.
 
 ## Reusable Practices
 
@@ -25,6 +27,7 @@ This week focuses on maintaining a GitHub-safe record of Codex / AI work for the
 - Use Git status, staged diff review, and sensitive-pattern scanning before upload.
 - Treat automation memory as part of the review loop so recurring runs build on prior decisions instead of repeating work.
 - Keep automation summaries limited to decisions, checks, and safe repository actions rather than raw conversation content.
+- Separate file creation from upload confirmation: only mark GitHub upload complete after commit and push both succeed.
 
 ## Risks To Watch
 
