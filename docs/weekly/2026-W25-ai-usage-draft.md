@@ -20,6 +20,9 @@ This week focuses on maintaining a GitHub-safe record of Codex / AI work for the
 - Reused the prior automation memory, governance checklist, and weekly draft context before adding the 2026-06-19 daily note.
 - Continued the daily upload-preparation run on 2026-06-20.
 - Rechecked the repository remote, README, `.gitignore`, governance notes, upload workflow, privacy exclusions, and prior daily note before adding the 2026-06-20 daily note.
+- Continued the daily upload-preparation run on 2026-06-21.
+- Pushed the previously pending 2026-06-20 local commit after GitHub connectivity was available again.
+- Added the final 2026-W25 daily checkpoint and kept the weekly report in draft form for later review or publication.
 
 ## Reusable Practices
 
@@ -31,6 +34,7 @@ This week focuses on maintaining a GitHub-safe record of Codex / AI work for the
 - Keep automation summaries limited to decisions, checks, and safe repository actions rather than raw conversation content.
 - Separate file creation from upload confirmation: only mark GitHub upload complete after commit and push both succeed.
 - Create or update automation memory on every run so future runs can avoid duplicating prior review focus.
+- Resolve pending local commits before preparing new daily material when a prior push failed.
 
 ## Risks To Watch
 
@@ -40,5 +44,5 @@ This week focuses on maintaining a GitHub-safe record of Codex / AI work for the
 
 ## Open Items
 
-- Append remaining daily summaries for 2026-W25 after each run.
-- Finalize the weekly report after the last daily run of the week.
+- Review and finalize this 2026-W25 draft if a polished weekly report is needed.
+- Start the 2026-W26 draft on the next daily automation run.
