@@ -21,6 +21,10 @@ This week continues the governed daily preparation of GitHub-safe Codex / AI wor
 - Rechecked README guidance, `.gitignore`, governance notes, desensitized upload workflow, daily and weekly records, target remote, and Git history before preparing the 2026-06-25 material.
 - Added the 2026-06-26 daily checkpoint after confirming the local repository was clean and aligned with `origin/main`.
 - Rechecked README guidance, `.gitignore`, governance notes, desensitized upload workflow, existing daily records, the weekly draft, target remote, and Git history before preparing the 2026-06-26 material.
+- Added the 2026-06-27 daily checkpoint after confirming the prior automation memory and repository state.
+- Rechecked README guidance, `.gitignore`, governance notes, desensitized upload workflow, existing daily records, the weekly draft, target remote, and recent governed commit history before preparing the 2026-06-27 material.
+- Added the 2026-06-28 daily checkpoint and completed the daily checkpoint sequence for the 2026-W26 period.
+- Kept the weekly report in draft form for optional later polishing while preserving only sanitized automation activity and safety-check summaries.
 
 ## Reusable Practices
 
@@ -39,5 +43,5 @@ This week continues the governed daily preparation of GitHub-safe Codex / AI wor
 
 ## Open Items
 
-- Continue appending daily checkpoints through 2026-06-28.
 - Review and finalize this draft if a polished weekly report is needed after the week closes.
+- Start the 2026-W27 weekly draft with the 2026-06-29 checkpoint.
