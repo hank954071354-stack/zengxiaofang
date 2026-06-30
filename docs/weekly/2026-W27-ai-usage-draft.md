@@ -15,6 +15,7 @@ This week continues the governed daily preparation of GitHub-safe Codex / AI wor
 - Added the missing 2026-06-27, 2026-06-28, and 2026-06-29 daily checkpoints under `docs/daily/`.
 - Updated the 2026-W26 weekly draft with its final two daily checkpoints.
 - Added the 2026-06-29 checkpoint to this 2026-W27 weekly draft.
+- Added the 2026-06-30 daily checkpoint after confirming coverage through 2026-06-29 and rechecking the repository safety boundaries.
 
 ## Reusable Practices
 
