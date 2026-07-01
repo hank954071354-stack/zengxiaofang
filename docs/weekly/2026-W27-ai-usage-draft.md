@@ -16,6 +16,8 @@ This week continues the governed daily preparation of GitHub-safe Codex / AI wor
 - Updated the 2026-W26 weekly draft with its final two daily checkpoints.
 - Added the 2026-06-29 checkpoint to this 2026-W27 weekly draft.
 - Added the 2026-06-30 daily checkpoint after confirming coverage through 2026-06-29 and rechecking the repository safety boundaries.
+- Added the 2026-07-01 daily checkpoint after confirming the 2026-06-30 record had already been prepared and pushed.
+- Reused the fallback local Codex automation memory path because `CODEX_HOME` was not set in the shell environment during the run.
 
 ## Reusable Practices
 
