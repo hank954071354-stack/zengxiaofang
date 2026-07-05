@@ -20,6 +20,9 @@ This week continues the governed daily preparation of GitHub-safe Codex / AI wor
 - Reused the fallback local Codex automation memory path because `CODEX_HOME` was not set in the shell environment during the run.
 - Added the 2026-07-02 daily checkpoint after confirming coverage through 2026-07-01, reading the prior automation memory, and rechecking repository safety boundaries.
 - Added the 2026-07-03 daily checkpoint after confirming coverage through 2026-07-02, finding no prior automation memory file for this run, and rechecking repository safety boundaries.
+- Added the 2026-07-04 daily checkpoint after confirming coverage through 2026-07-03 and keeping the update limited to GitHub-safe Markdown summary files.
+- Added the 2026-07-05 daily checkpoint after rechecking automation memory, README, `.gitignore`, governance guidance, desensitized upload workflow, remote alignment, and recent Git history.
+- Closed the 2026-W27 draft coverage window with daily checkpoints for every date from 2026-06-29 through 2026-07-05.
 
 ## Reusable Practices
 
@@ -37,5 +40,5 @@ This week continues the governed daily preparation of GitHub-safe Codex / AI wor
 
 ## Open Items
 
-- Continue appending daily checkpoints through 2026-07-05.
 - Review and finalize this draft if a polished weekly report is needed after the week closes.
+- Start the 2026-W28 draft with the next daily checkpoint on 2026-07-06.
